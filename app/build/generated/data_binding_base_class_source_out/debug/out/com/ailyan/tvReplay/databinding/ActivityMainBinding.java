@@ -4,7 +4,6 @@ package com.ailyan.tvReplay.databinding;
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
-import android.widget.ImageButton;
 import android.widget.LinearLayout;
 import androidx.annotation.NonNull;
 import androidx.annotation.Nullable;
@@ -25,20 +24,16 @@ public final class ActivityMainBinding implements ViewBinding {
   public final LottieAnimationView animationView;
 
   @NonNull
-  public final ImageButton btnFavorite;
-
-  @NonNull
   public final RecyclerView channelsRecycler;
 
   @NonNull
   public final RecyclerView genresAdapter;
 
   private ActivityMainBinding(@NonNull LinearLayout rootView,
-      @NonNull LottieAnimationView animationView, @NonNull ImageButton btnFavorite,
-      @NonNull RecyclerView channelsRecycler, @NonNull RecyclerView genresAdapter) {
+      @NonNull LottieAnimationView animationView, @NonNull RecyclerView channelsRecycler,
+      @NonNull RecyclerView genresAdapter) {
     this.rootView = rootView;
     this.animationView = animationView;
-    this.btnFavorite = btnFavorite;
     this.channelsRecycler = channelsRecycler;
     this.genresAdapter = genresAdapter;
   }
@@ -76,12 +71,6 @@ public final class ActivityMainBinding implements ViewBinding {
         break missingId;
       }
 
-      id = R.id.btnFavorite;
-      ImageButton btnFavorite = ViewBindings.findChildViewById(rootView, id);
-      if (btnFavorite == null) {
-        break missingId;
-      }
-
       id = R.id.channelsRecycler;
       RecyclerView channelsRecycler = ViewBindings.findChildViewById(rootView, id);
       if (channelsRecycler == null) {
@@ -94,8 +83,8 @@ public final class ActivityMainBinding implements ViewBinding {
         break missingId;
       }
 
-      return new ActivityMainBinding((LinearLayout) rootView, animationView, btnFavorite,
-          channelsRecycler, genresAdapter);
+      return new ActivityMainBinding((LinearLayout) rootView, animationView, channelsRecycler,
+          genresAdapter);
     }
     String missingId = rootView.getResources().getResourceName(id);
     throw new NullPointerException("Missing required view with ID: ".concat(missingId));

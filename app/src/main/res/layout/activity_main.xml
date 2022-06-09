@@ -43,14 +43,5 @@
             app:lottie_autoPlay="true"
             app:lottie_fileName="loading.json"
             app:lottie_loop="true" />
-
-        <ImageButton
-            android:id="@+id/btnFavorite"
-            android:layout_width="@dimen/_38sdp"
-            android:layout_height="@dimen/_38sdp"
-            android:layout_gravity="bottom|end"
-            android:layout_margin="@dimen/_15sdp"
-            android:padding="@dimen/_35sdp"
-            android:background="@drawable/ic_favorite"/>
     </FrameLayout>
 </LinearLayout>
