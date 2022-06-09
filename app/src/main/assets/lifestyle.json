@@ -1,0 +1,198 @@
+[
+  {
+    "name": "Fashion TV",
+    "logo": "https://i.imgur.com/HBksX8u.png",
+    "url": "https://fashiontv-fashiontv-1-eu.rakuten.wurl.com/manifest/playlist.m3u8",
+    "categories": [
+      {
+        "name": "Lifestyle",
+        "slug": "lifestyle"
+      }
+    ],
+    "countries": [
+      {
+        "name": "France",
+        "code": "FR"
+      }
+    ],
+    "languages": [
+      {
+        "name": "French",
+        "code": "fra"
+      }
+    ],
+    "tvg": {
+      "id": "FashionTV.fr",
+      "name": "Fashion TV",
+      "url": ""
+    }
+  },
+  {
+    "name": "Fashion TV (England)",
+    "logo": null,
+    "url": "https://fashiontv-fashiontv-1-gb.samsung.wurl.com/manifest/playlist.m3u8",
+    "categories": [
+      {
+        "name": "Lifestyle",
+        "slug": "lifestyle"
+      }
+    ],
+    "countries": [
+      {
+        "name": "France",
+        "code": "FR"
+      }
+    ],
+    "languages": [
+      {
+        "name": "French",
+        "code": "fra"
+      }
+    ],
+    "tvg": {
+      "id": "FashionTVEngland.fr",
+      "name": "Fashion TV (England)",
+      "url": ""
+    }
+  },
+  {
+    "name": "Fashion TV (Italy)",
+    "logo": null,
+    "url": "https://fashiontv-fashiontv-3-it.samsung.wurl.com/manifest/playlist.m3u8",
+    "categories": [
+      {
+        "name": "Lifestyle",
+        "slug": "lifestyle"
+      }
+    ],
+    "countries": [
+      {
+        "name": "France",
+        "code": "FR"
+      }
+    ],
+    "languages": [
+      {
+        "name": "French",
+        "code": "fra"
+      }
+    ],
+    "tvg": {
+      "id": "FashionTVItaly.fr",
+      "name": "Fashion TV (Italy)",
+      "url": ""
+    }
+  },
+  {
+    "name": "Fashion TV (Spain)",
+    "logo": null,
+    "url": "https://fashiontv-fashiontv-2-es.samsung.wurl.com/manifest/playlist.m3u8",
+    "categories": [
+      {
+        "name": "Lifestyle",
+        "slug": "lifestyle"
+      }
+    ],
+    "countries": [
+      {
+        "name": "France",
+        "code": "FR"
+      }
+    ],
+    "languages": [
+      {
+        "name": "French",
+        "code": "fra"
+      }
+    ],
+    "tvg": {
+      "id": "FashionTVSpain.fr",
+      "name": "Fashion TV (Spain)",
+      "url": ""
+    }
+  },
+  {
+    "name": "Fashion TV New York (PG13)",
+    "logo": "https://i.imgur.com/auHH1Ig.png",
+    "url": "https://fash2043.cloudycdn.services/slive/ftv_ftv_gmt_-5_qko_43090_default_1225_hls.smil/playlist.m3u8",
+    "categories": [
+      {
+        "name": "Lifestyle",
+        "slug": "lifestyle"
+      }
+    ],
+    "countries": [
+      {
+        "name": "France",
+        "code": "FR"
+      }
+    ],
+    "languages": [
+      {
+        "name": "English",
+        "code": "eng"
+      }
+    ],
+    "tvg": {
+      "id": "FashionTVNewYork.fr",
+      "name": "Fashion TV New York (PG13)",
+      "url": ""
+    }
+  },
+  {
+    "name": "Fashion TV Paris",
+    "logo": "https://static.iptv-epg.com/fr/FashionTV.fr.png",
+    "url": "http://fash1043.cloudycdn.services/slive/ftv_paris_adaptive.smil/playlist.m3u8",
+    "categories": [
+      {
+        "name": "Lifestyle",
+        "slug": "lifestyle"
+      }
+    ],
+    "countries": [
+      {
+        "name": "France",
+        "code": "FR"
+      }
+    ],
+    "languages": [
+      {
+        "name": "French",
+        "code": "fra"
+      }
+    ],
+    "tvg": {
+      "id": "FashionTVParis.fr",
+      "name": "Fashion TV Paris",
+      "url": ""
+    }
+  },
+  {
+    "name": "Fashion TV Paris-Mumbai",
+    "logo": "https://i.imgur.com/yvNu4Rm.png",
+    "url": "https://fash1043.cloudycdn.services/slive/ftv_ftv_asia_gmt_vmf_43163_default_1298_hls.smil/playlist.m3u8",
+    "categories": [
+      {
+        "name": "Lifestyle",
+        "slug": "lifestyle"
+      }
+    ],
+    "countries": [
+      {
+        "name": "France",
+        "code": "FR"
+      }
+    ],
+    "languages": [
+      {
+        "name": "English",
+        "code": "eng"
+      }
+    ],
+    "tvg": {
+      "id": "FashionTVParisMumbai.fr",
+      "name": "Fashion TV Paris-Mumbai",
+      "url": ""
+    }
+  }
+]

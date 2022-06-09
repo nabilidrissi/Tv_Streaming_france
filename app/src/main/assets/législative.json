@@ -1,0 +1,147 @@
+[
+  {
+    "name": "Canal de l'Assemblée nationale",
+    "logo": "https://i.imgur.com/xKNnoci.png",
+    "url": "https://wowzaprod231-i.akamaihd.net/hls/live/1013830/177d227e/playlist.m3u8",
+    "categories": [
+      {
+        "name": "législative",
+        "slug": "législative"
+      }
+    ],
+    "countries": [
+      {
+        "name": "Canada",
+        "code": "CA"
+      }
+    ],
+    "languages": [
+      {
+        "name": "French",
+        "code": "fra"
+      }
+    ],
+    "tvg": {
+      "id": "AssembleenationaleduQuebec.ca",
+      "name": "Canal de l'Assemblée nationale",
+      "url": "https://iptv-org.github.io/epg/guides/ca/tvtv.us.epg.xml"
+    }
+  },
+  {
+    "name": "CPAC",
+    "logo": "https://i.imgur.com/5ym6eJS.png",
+    "url": "https://d7z3qjdsxbwoq.cloudfront.net/groupa/live/f9809cea-1e07-47cd-a94d-2ddd3e1351db/live.isml/.m3u8",
+    "categories": [
+      {
+        "name": "législative",
+        "slug": "législative"
+      }
+    ],
+    "countries": [
+      {
+        "name": "Canada",
+        "code": "CA"
+      }
+    ],
+    "languages": [
+      {
+        "name": "English",
+        "code": "eng"
+      },
+      {
+        "name": "French",
+        "code": "fra"
+      }
+    ],
+    "tvg": {
+      "id": "CPACOttawa.ca",
+      "name": "CPAC",
+      "url": "https://iptv-org.github.io/epg/guides/ca/tvtv.us.epg.xml"
+    }
+  },
+  {
+    "name": "Public Sénat",
+    "logo": "https://i.postimg.cc/rpqnBjbS/public-senat.png",
+    "url": "http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.dailymotion.com/video/xkxbzc",
+    "categories": [
+      {
+        "name": "législative",
+        "slug": "législative"
+      }
+    ],
+    "countries": [
+      {
+        "name": "France",
+        "code": "FR"
+      }
+    ],
+    "languages": [
+      {
+        "name": "French",
+        "code": "fra"
+      }
+    ],
+    "tvg": {
+      "id": "PublicSenat.fr",
+      "name": "Public Sénat",
+      "url": ""
+    }
+  },
+
+  {
+    "name": "LCP",
+    "logo": "https://i.postimg.cc/rwBVxjj2/lcp.png",
+    "url": "http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.dailymotion.com/video/xji3qy",
+    "categories": [
+      {
+        "name": "législative",
+        "slug": "législative"
+      }
+    ],
+    "countries": [
+      {
+        "name": "France",
+        "code": "FR"
+      }
+    ],
+    "languages": [
+      {
+        "name": "French",
+        "code": "fra"
+      }
+    ],
+    "tvg": {
+      "id": "LCP.fr",
+      "name": "LCP",
+      "url": ""
+    }
+  },
+  {
+    "name": "Ontario Parliamentary Network (FR)",
+    "logo": "https://i.imgur.com/BQWfhEr.jpg",
+    "url": "http://origin-http-delivery.isilive.ca/live/_definst_/ontla/house-fr/playlist.m3u8",
+    "categories": [
+      {
+        "name": "législative",
+        "slug": "législative"
+      }
+    ],
+    "countries": [
+      {
+        "name": "Canada",
+        "code": "CA"
+      }
+    ],
+    "languages": [
+      {
+        "name": "French",
+        "code": "fra"
+      }
+    ],
+    "tvg": {
+      "id": "OntarioParliamentaryNetworkFR.ca",
+      "name": "Ontario Parliamentary Network (FR)",
+      "url": ""
+    }
+  }
+]

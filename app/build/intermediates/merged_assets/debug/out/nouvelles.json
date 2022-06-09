@@ -1,0 +1,344 @@
+[
+  {
+    "name": "TF1",
+    "logo": "https://upload.wikimedia.org/wikipedia/fr/thumb/7/77/TF1_%282013%29.svg/1200px-TF1_%282013%29.svg.png",
+    "url": "https://s2.tntendirect.com/tf1/live/chunks.m3u8",
+    "categories": [
+      {
+        "name": "nouvelles",
+        "slug": "nouvelles"
+      }
+    ],
+    "countries": [
+      {
+        "name": "France",
+        "code": "FR"
+      }
+    ],
+    "languages": [
+      {
+        "name": "French",
+        "code": "fra"
+      }
+    ]
+  },
+  {
+    "name": "TV 5 MONDE INFO",
+    "logo": "https://www.breew.com/V4/wp-content/uploads/2014/04/mzl.wqcvqezh.png",
+    "url": "https://ott.tv5monde.com/Content/HLS/Live/channel(info)/variant.m3u8",
+    "categories": [
+      {
+        "name": "nouvelles",
+        "slug": "nouvelles"
+      }
+    ],
+    "countries": [
+      {
+        "name": "France",
+        "code": "FR"
+      }
+    ],
+    "languages": [
+      {
+        "name": "French",
+        "code": "fra"
+      }
+    ]
+  },
+  {
+    "name": "France 24 Français",
+    "logo": "https://i.imgur.com/61MSiq9.png",
+    "url": "https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1654615618/ei/4hmfYt65H6OvmLAPtYGxmAE/ip/105.66.5.49/id/u9foWyMSATM.12/source/yt_live_broadcast/requiressl/yes/tx/24027710/txs/24027707%2C24027708%2C24027709%2C24027710%2C24067856/hfr/1/playlist_duration/30/manifest_duration/30/maxh/2160/maudio/1/spc/4ocVC7GqxUsQHHHLCzrxbro-zY-dMduAYxhDlTBJFOf5/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaxh%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRAIgILR1IYGL8Y8x5Y0OHNYfs5M2r1qtQ28mL3tNgpdjDdQCIBnRgnfH1yMDogeCup0jtOhESCxTFoAxWHZ8nH-ImtLI/file/index.m3u8",
+    "categories": [
+      {
+        "name": "nouvelles",
+        "slug": "nouvelles"
+      }
+    ],
+    "countries": [
+      {
+        "name": "France",
+        "code": "FR"
+      }
+    ],
+    "languages": [
+      {
+        "name": "French",
+        "code": "fra"
+      }
+    ],
+    "tvg": {
+      "id": "France24Francais.fr",
+      "name": "France 24 Français",
+      "url": "https://iptv-org.github.io/epg/guides/ao/zap.co.ao.epg.xml"
+    }
+  },
+  {
+    "name": "Franceinfo",
+    "logo": "https://proxymedia.woopic.com/api/v1/images/553%2Flogos%2Fv2%2Flogos%2Flivetv_franceinfo%2F20151026_092415%2FwebTVLogo%2Flogo_180x96.png",
+    "url": "http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/c/franceinfo/live",
+    "categories": [
+      {
+        "name": "nouvelles",
+        "slug": "nouvelles"
+      }
+    ],
+    "countries": [
+      {
+        "name": "France",
+        "code": "FR"
+      }
+    ],
+    "languages": [
+      {
+        "name": "French",
+        "code": "fra"
+      }
+    ],
+    "tvg": {
+      "id": "Franceinfo.fr",
+      "name": "Franceinfo",
+      "url": "https://iptv-org.github.io/epg/guides/bl/canalplus-caraibes.com.epg.xml"
+    }
+  },
+  {
+    "name": "Ici RDI",
+    "logo": "https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/ICI-RDI.png",
+    "url": "https://rcavlive.akamaized.net/hls/live/704025/xcanrdi/master.m3u8",
+    "categories": [
+      {
+        "name": "nouvelles",
+        "slug": "nouvelles"
+      }
+    ],
+    "countries": [
+      {
+        "name": "Canada",
+        "code": "CA"
+      }
+    ],
+    "languages": [
+      {
+        "name": "French",
+        "code": "fra"
+      }
+    ],
+    "tvg": {
+      "id": "IciRDI.ca",
+      "name": "Ici RDI",
+      "url": "https://iptv-org.github.io/epg/guides/ca/tvtv.us.epg.xml"
+    }
+  },
+  {
+    "name": "BFM LYON",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/a/a7/BFMLyon2019.jpg",
+    "url": "https://bfmlyon-lh.akamaihd.net/i/BFMLYON_ESYTLS@797041/master.m3u8",
+    "categories": [
+      {
+        "name": "nouvelles",
+        "slug": "nouvelles"
+      }
+    ],
+    "countries": [
+      {
+        "name": "france",
+        "code": "fr"
+      }
+    ],
+    "languages": [
+      {
+        "name": "French",
+        "code": "fra"
+      }
+    ]
+  },
+  {
+    "name": "BFM LILLE",
+    "logo": "https://www.bfmtv.com/assets/v1/images/BFM_Grand_Lille_cover.e4fa3ba5a46a66b7d8b7f1bebccbc407.jpg",
+    "url": "https://live.creacast.com/grandlilletv/smil:grandlilletv.smil/playlist.m3u8",
+    "categories": [
+      {
+        "name": "nouvelles",
+        "slug": "nouvelles"
+      }
+    ],
+    "countries": [
+      {
+        "name": "france",
+        "code": "fr"
+      }
+    ],
+    "languages": [
+      {
+        "name": "French",
+        "code": "fra"
+      }
+    ]
+  },
+  {
+    "name": "BFM GRAND LITTORAL",
+    "logo": "https://www.bfmtv.com/assets/v1/images/BFM_Grand_Littoral_cover.5bc4895768138d1453886fb224c81cda.jpg",
+    "url": "https://live.creacast.com/grandlittoral/smil:grandlittoral.smil/playlist.m3u8",
+    "categories": [
+      {
+        "name": "nouvelles",
+        "slug": "nouvelles"
+      }
+    ],
+    "countries": [
+      {
+        "name": "france",
+        "code": "fr"
+      }
+    ],
+    "languages": [
+      {
+        "name": "French",
+        "code": "fra"
+      }
+    ]
+  },
+  {
+    "name": "BFM PARIS",
+    "logo": "https://www.offremedia.com/sites/default/files/logo/fiche_media/bfm-paris-appli.png",
+    "url": "https://bfmparishdslive-lh.akamaihd.net/i/BFMPARIS_ESYTLS@429747/master.m3u8",
+    "categories": [
+      {
+        "name": "nouvelles",
+        "slug": "nouvelles"
+      }
+    ],
+    "countries": [
+      {
+        "name": "france",
+        "code": "fr"
+      }
+    ],
+    "languages": [
+      {
+        "name": "French",
+        "code": "fra"
+      }
+    ]
+  },
+  {
+    "name": "LCI",
+    "logo": "https://i.imgur.com/6VzdKEa.png",
+    "url": "https://lci-hls-live-ssl.tf1.fr/lci/1/hls/live_2328.m3u8",
+    "categories": [
+      {
+        "name": "nouvelles",
+        "slug": "nouvelles"
+      }
+    ],
+    "countries": [
+      {
+        "name": "France",
+        "code": "FR"
+      },
+      {
+        "name": "Belgium",
+        "code": "BE"
+      },
+      {
+        "name": "Switzerland",
+        "code": "CH"
+      },
+      {
+        "name": "Luxembourg",
+        "code": "LU"
+      }
+    ],
+    "languages": [
+      {
+        "name": "French",
+        "code": "fra"
+      }
+    ],
+    "tvg": {
+      "id": "LCI.fr",
+      "name": "LCI",
+      "url": "https://iptv-org.github.io/epg/guides/ao/zap.co.ao.epg.xml"
+    }
+  },
+
+  {
+    "name": "Cnouvelles",
+    "logo": "https://i.postimg.cc/vT6GMpCV/cnouvelles.png",
+    "url": "http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.dailymotion.com/video/x3b68jn",
+    "categories": [
+      {
+        "name": "nouvelles",
+        "slug": "nouvelles"
+      }
+    ],
+    "countries": [
+      {
+        "name": "France",
+        "code": "FR"
+      }
+    ],
+    "languages": [
+      {
+        "name": "French",
+        "code": "fra"
+      }
+    ],
+    "tvg": {
+      "id": "Cnouvelles.fr",
+      "name": "Cnouvelles",
+      "url": ""
+    }
+  },
+  {
+    "name": "Euronouvelles Français",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Euronouvelles_2016_logo.svg/1000px-Euronouvelles_2016_logo.svg.png",
+    "url": "https://rakuten-euronouvelles-2-fr.samsung.wurl.com/manifest/playlist.m3u8",
+    "categories": [
+      {
+        "name": "nouvelles",
+        "slug": "nouvelles"
+      }
+    ],
+    "countries": [
+      {
+        "name": "France",
+        "code": "FR"
+      }
+    ],
+    "languages": [
+      {
+        "name": "French",
+        "code": "fra"
+      }
+    ],
+    "tvg": {
+      "id": "EuronouvellesFrancais.fr",
+      "name": "Euronouvelles Français",
+      "url": "https://iptv-org.github.io/epg/guides/us/tvtv.us.epg.xml"
+    }
+  },
+  {
+    "name": "RT France",
+    "logo": "https://www.frtv.fr/wp-content/uploads/2021/01/rt-france-1000x844.png",
+    "url": "https://rt-fra.rttv.com/live/rtfrance/playlist.m3u8",
+    "categories": [
+      {
+        "name": "nouvelles",
+        "slug": "nouvelles"
+      }
+    ],
+    "countries": [
+      {
+        "name": "France",
+        "code": "FR"
+      }
+    ],
+    "languages": [
+      {
+        "name": "French",
+        "code": "fra"
+      }
+    ]
+  }
+]

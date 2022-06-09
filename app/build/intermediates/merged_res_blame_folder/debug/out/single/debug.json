@@ -1,0 +1,182 @@
+[
+    {
+        "merged": "C:\\Users\\lenovo\\Desktop\\iptv\\LiveFlix-master\\app\\build\\intermediates\\merged_res\\debug\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\lenovo\\Desktop\\iptv\\LiveFlix-master\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\lenovo\\Desktop\\iptv\\LiveFlix-master\\app\\build\\intermediates\\merged_res\\debug\\mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\lenovo\\Desktop\\iptv\\LiveFlix-master\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\lenovo\\Desktop\\iptv\\LiveFlix-master\\app\\build\\intermediates\\merged_res\\debug\\mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\lenovo\\Desktop\\iptv\\LiveFlix-master\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\lenovo\\Desktop\\iptv\\LiveFlix-master\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_play.png.flat",
+        "source": "C:\\Users\\lenovo\\Desktop\\iptv\\LiveFlix-master\\app\\src\\main\\res\\drawable\\ic_play.png"
+    },
+    {
+        "merged": "C:\\Users\\lenovo\\Desktop\\iptv\\LiveFlix-master\\app\\build\\intermediates\\merged_res\\debug\\drawable_bg9.jpg.flat",
+        "source": "C:\\Users\\lenovo\\Desktop\\iptv\\LiveFlix-master\\app\\src\\main\\res\\drawable\\bg9.jpg"
+    },
+    {
+        "merged": "C:\\Users\\lenovo\\Desktop\\iptv\\LiveFlix-master\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_fullscreen.xml.flat",
+        "source": "C:\\Users\\lenovo\\Desktop\\iptv\\LiveFlix-master\\app\\src\\main\\res\\drawable\\ic_fullscreen.xml"
+    },
+    {
+        "merged": "C:\\Users\\lenovo\\Desktop\\iptv\\LiveFlix-master\\app\\build\\intermediates\\merged_res\\debug\\drawable_bg2.jpg.flat",
+        "source": "C:\\Users\\lenovo\\Desktop\\iptv\\LiveFlix-master\\app\\src\\main\\res\\drawable\\bg2.jpg"
+    },
+    {
+        "merged": "C:\\Users\\lenovo\\Desktop\\iptv\\LiveFlix-master\\app\\build\\intermediates\\merged_res\\debug\\drawable_bg10.jpg.flat",
+        "source": "C:\\Users\\lenovo\\Desktop\\iptv\\LiveFlix-master\\app\\src\\main\\res\\drawable\\bg10.jpg"
+    },
+    {
+        "merged": "C:\\Users\\lenovo\\Desktop\\iptv\\LiveFlix-master\\app\\build\\intermediates\\merged_res\\debug\\drawable-xxxhdpi_ic_imovie.png.flat",
+        "source": "C:\\Users\\lenovo\\Desktop\\iptv\\LiveFlix-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_imovie.png"
+    },
+    {
+        "merged": "C:\\Users\\lenovo\\Desktop\\iptv\\LiveFlix-master\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\lenovo\\Desktop\\iptv\\LiveFlix-master\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\lenovo\\Desktop\\iptv\\LiveFlix-master\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\lenovo\\Desktop\\iptv\\LiveFlix-master\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\lenovo\\Desktop\\iptv\\LiveFlix-master\\app\\build\\intermediates\\merged_res\\debug\\drawable_bg7.jpg.flat",
+        "source": "C:\\Users\\lenovo\\Desktop\\iptv\\LiveFlix-master\\app\\src\\main\\res\\drawable\\bg7.jpg"
+    },
+    {
+        "merged": "C:\\Users\\lenovo\\Desktop\\iptv\\LiveFlix-master\\app\\build\\intermediates\\merged_res\\debug\\drawable-mdpi_ic_imovie.png.flat",
+        "source": "C:\\Users\\lenovo\\Desktop\\iptv\\LiveFlix-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_imovie.png"
+    },
+    {
+        "merged": "C:\\Users\\lenovo\\Desktop\\iptv\\LiveFlix-master\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_pause.png.flat",
+        "source": "C:\\Users\\lenovo\\Desktop\\iptv\\LiveFlix-master\\app\\src\\main\\res\\drawable\\ic_pause.png"
+    },
+    {
+        "merged": "C:\\Users\\lenovo\\Desktop\\iptv\\LiveFlix-master\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\lenovo\\Desktop\\iptv\\LiveFlix-master\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\lenovo\\Desktop\\iptv\\LiveFlix-master\\app\\build\\intermediates\\merged_res\\debug\\drawable_bg5.jpg.flat",
+        "source": "C:\\Users\\lenovo\\Desktop\\iptv\\LiveFlix-master\\app\\src\\main\\res\\drawable\\bg5.jpg"
+    },
+    {
+        "merged": "C:\\Users\\lenovo\\Desktop\\iptv\\LiveFlix-master\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_forward.png.flat",
+        "source": "C:\\Users\\lenovo\\Desktop\\iptv\\LiveFlix-master\\app\\src\\main\\res\\drawable\\ic_forward.png"
+    },
+    {
+        "merged": "C:\\Users\\lenovo\\Desktop\\iptv\\LiveFlix-master\\app\\build\\intermediates\\merged_res\\debug\\drawable_bg3.jpg.flat",
+        "source": "C:\\Users\\lenovo\\Desktop\\iptv\\LiveFlix-master\\app\\src\\main\\res\\drawable\\bg3.jpg"
+    },
+    {
+        "merged": "C:\\Users\\lenovo\\Desktop\\iptv\\LiveFlix-master\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_favorite.xml.flat",
+        "source": "C:\\Users\\lenovo\\Desktop\\iptv\\LiveFlix-master\\app\\src\\main\\res\\drawable\\ic_favorite.xml"
+    },
+    {
+        "merged": "C:\\Users\\lenovo\\Desktop\\iptv\\LiveFlix-master\\app\\build\\intermediates\\merged_res\\debug\\layout_genre_item.xml.flat",
+        "source": "C:\\Users\\lenovo\\Desktop\\iptv\\LiveFlix-master\\app\\src\\main\\res\\layout\\genre_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\lenovo\\Desktop\\iptv\\LiveFlix-master\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_search.xml.flat",
+        "source": "C:\\Users\\lenovo\\Desktop\\iptv\\LiveFlix-master\\app\\src\\main\\res\\drawable\\ic_search.xml"
+    },
+    {
+        "merged": "C:\\Users\\lenovo\\Desktop\\iptv\\LiveFlix-master\\app\\build\\intermediates\\merged_res\\debug\\layout_channel_item.xml.flat",
+        "source": "C:\\Users\\lenovo\\Desktop\\iptv\\LiveFlix-master\\app\\src\\main\\res\\layout\\channel_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\lenovo\\Desktop\\iptv\\LiveFlix-master\\app\\build\\intermediates\\merged_res\\debug\\drawable-xxhdpi_ic_imovie.png.flat",
+        "source": "C:\\Users\\lenovo\\Desktop\\iptv\\LiveFlix-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_imovie.png"
+    },
+    {
+        "merged": "C:\\Users\\lenovo\\Desktop\\iptv\\LiveFlix-master\\app\\build\\intermediates\\merged_res\\debug\\drawable_bg8.jpg.flat",
+        "source": "C:\\Users\\lenovo\\Desktop\\iptv\\LiveFlix-master\\app\\src\\main\\res\\drawable\\bg8.jpg"
+    },
+    {
+        "merged": "C:\\Users\\lenovo\\Desktop\\iptv\\LiveFlix-master\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\lenovo\\Desktop\\iptv\\LiveFlix-master\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\lenovo\\Desktop\\iptv\\LiveFlix-master\\app\\build\\intermediates\\merged_res\\debug\\drawable-hdpi_ic_imovie.png.flat",
+        "source": "C:\\Users\\lenovo\\Desktop\\iptv\\LiveFlix-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_imovie.png"
+    },
+    {
+        "merged": "C:\\Users\\lenovo\\Desktop\\iptv\\LiveFlix-master\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_replay.png.flat",
+        "source": "C:\\Users\\lenovo\\Desktop\\iptv\\LiveFlix-master\\app\\src\\main\\res\\drawable\\ic_replay.png"
+    },
+    {
+        "merged": "C:\\Users\\lenovo\\Desktop\\iptv\\LiveFlix-master\\app\\build\\intermediates\\merged_res\\debug\\drawable-anydpi-v24_ic_imovie.xml.flat",
+        "source": "C:\\Users\\lenovo\\Desktop\\iptv\\LiveFlix-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v24\\ic_imovie.xml"
+    },
+    {
+        "merged": "C:\\Users\\lenovo\\Desktop\\iptv\\LiveFlix-master\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_video.xml.flat",
+        "source": "C:\\Users\\lenovo\\Desktop\\iptv\\LiveFlix-master\\app\\src\\main\\res\\layout\\activity_video.xml"
+    },
+    {
+        "merged": "C:\\Users\\lenovo\\Desktop\\iptv\\LiveFlix-master\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_online.png.flat",
+        "source": "C:\\Users\\lenovo\\Desktop\\iptv\\LiveFlix-master\\app\\src\\main\\res\\drawable\\ic_online.png"
+    },
+    {
+        "merged": "C:\\Users\\lenovo\\Desktop\\iptv\\LiveFlix-master\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\lenovo\\Desktop\\iptv\\LiveFlix-master\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\lenovo\\Desktop\\iptv\\LiveFlix-master\\app\\build\\intermediates\\merged_res\\debug\\drawable_bg1.jpg.flat",
+        "source": "C:\\Users\\lenovo\\Desktop\\iptv\\LiveFlix-master\\app\\src\\main\\res\\drawable\\bg1.jpg"
+    },
+    {
+        "merged": "C:\\Users\\lenovo\\Desktop\\iptv\\LiveFlix-master\\app\\build\\intermediates\\merged_res\\debug\\drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\lenovo\\Desktop\\iptv\\LiveFlix-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\lenovo\\Desktop\\iptv\\LiveFlix-master\\app\\build\\intermediates\\merged_res\\debug\\drawable-xhdpi_ic_imovie.png.flat",
+        "source": "C:\\Users\\lenovo\\Desktop\\iptv\\LiveFlix-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_imovie.png"
+    },
+    {
+        "merged": "C:\\Users\\lenovo\\Desktop\\iptv\\LiveFlix-master\\app\\build\\intermediates\\merged_res\\debug\\mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\lenovo\\Desktop\\iptv\\LiveFlix-master\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\lenovo\\Desktop\\iptv\\LiveFlix-master\\app\\build\\intermediates\\merged_res\\debug\\mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\lenovo\\Desktop\\iptv\\LiveFlix-master\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\lenovo\\Desktop\\iptv\\LiveFlix-master\\app\\build\\intermediates\\merged_res\\debug\\drawable_bg4.jpg.flat",
+        "source": "C:\\Users\\lenovo\\Desktop\\iptv\\LiveFlix-master\\app\\src\\main\\res\\drawable\\bg4.jpg"
+    },
+    {
+        "merged": "C:\\Users\\lenovo\\Desktop\\iptv\\LiveFlix-master\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\lenovo\\Desktop\\iptv\\LiveFlix-master\\app\\src\\main\\res\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\lenovo\\Desktop\\iptv\\LiveFlix-master\\app\\build\\intermediates\\merged_res\\debug\\layout_custom_controller.xml.flat",
+        "source": "C:\\Users\\lenovo\\Desktop\\iptv\\LiveFlix-master\\app\\src\\main\\res\\layout\\custom_controller.xml"
+    },
+    {
+        "merged": "C:\\Users\\lenovo\\Desktop\\iptv\\LiveFlix-master\\app\\build\\intermediates\\merged_res\\debug\\drawable-ldpi_ic_imovie.png.flat",
+        "source": "C:\\Users\\lenovo\\Desktop\\iptv\\LiveFlix-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_imovie.png"
+    },
+    {
+        "merged": "C:\\Users\\lenovo\\Desktop\\iptv\\LiveFlix-master\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\lenovo\\Desktop\\iptv\\LiveFlix-master\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\lenovo\\Desktop\\iptv\\LiveFlix-master\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_offline.png.flat",
+        "source": "C:\\Users\\lenovo\\Desktop\\iptv\\LiveFlix-master\\app\\src\\main\\res\\drawable\\ic_offline.png"
+    },
+    {
+        "merged": "C:\\Users\\lenovo\\Desktop\\iptv\\LiveFlix-master\\app\\build\\intermediates\\merged_res\\debug\\drawable_bg6.jpg.flat",
+        "source": "C:\\Users\\lenovo\\Desktop\\iptv\\LiveFlix-master\\app\\src\\main\\res\\drawable\\bg6.jpg"
+    },
+    {
+        "merged": "C:\\Users\\lenovo\\Desktop\\iptv\\LiveFlix-master\\app\\build\\intermediates\\merged_res\\debug\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\lenovo\\Desktop\\iptv\\LiveFlix-master\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\lenovo\\Desktop\\iptv\\LiveFlix-master\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\lenovo\\Desktop\\iptv\\LiveFlix-master\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_round.webp"
+    }
+]

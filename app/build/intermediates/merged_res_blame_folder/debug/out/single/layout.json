@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "C:\\Users\\lenovo\\Desktop\\iptv\\LiveFlix-master\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\channel_item.xml",
+        "source": "C:\\Users\\lenovo\\Desktop\\iptv\\LiveFlix-master\\app\\src\\main\\res\\layout\\channel_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\lenovo\\Desktop\\iptv\\LiveFlix-master\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\genre_item.xml",
+        "source": "C:\\Users\\lenovo\\Desktop\\iptv\\LiveFlix-master\\app\\src\\main\\res\\layout\\genre_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\lenovo\\Desktop\\iptv\\LiveFlix-master\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_main.xml",
+        "source": "C:\\Users\\lenovo\\Desktop\\iptv\\LiveFlix-master\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\lenovo\\Desktop\\iptv\\LiveFlix-master\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_video.xml",
+        "source": "C:\\Users\\lenovo\\Desktop\\iptv\\LiveFlix-master\\app\\src\\main\\res\\layout\\activity_video.xml"
+    },
+    {
+        "merged": "C:\\Users\\lenovo\\Desktop\\iptv\\LiveFlix-master\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\custom_controller.xml",
+        "source": "C:\\Users\\lenovo\\Desktop\\iptv\\LiveFlix-master\\app\\src\\main\\res\\layout\\custom_controller.xml"
+    }
+]

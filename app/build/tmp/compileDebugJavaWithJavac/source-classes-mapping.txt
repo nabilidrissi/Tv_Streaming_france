@@ -1,0 +1,14 @@
+com/ailyan/tvReplay/ui/PlayerActivity.java
+ com.ailyan.tvReplay.ui.PlayerActivity
+com/ailyan/tvReplay/BuildConfig.java
+ com.ailyan.tvReplay.BuildConfig
+com/ailyan/tvReplay/databinding/CustomControllerBinding.java
+ com.ailyan.tvReplay.databinding.CustomControllerBinding
+com/ailyan/tvReplay/databinding/ActivityMainBinding.java
+ com.ailyan.tvReplay.databinding.ActivityMainBinding
+com/ailyan/tvReplay/databinding/ActivityVideoBinding.java
+ com.ailyan.tvReplay.databinding.ActivityVideoBinding
+com/ailyan/tvReplay/databinding/GenreItemBinding.java
+ com.ailyan.tvReplay.databinding.GenreItemBinding
+com/ailyan/tvReplay/databinding/ChannelItemBinding.java
+ com.ailyan.tvReplay.databinding.ChannelItemBinding

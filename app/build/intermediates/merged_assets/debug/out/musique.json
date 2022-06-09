@@ -1,0 +1,239 @@
+[
+  {
+    "name": "TZiK",
+    "logo": "https://i.imgur.com/6Iw1YRL.png",
+    "url": "https://54627d4fc5996.streamlock.net/tzik/tzik/chunklist.m3u8",
+    "categories": [
+      {
+        "name": "musique",
+        "slug": "musique"
+      }
+    ],
+    "countries": [
+      {
+        "name": "France",
+        "code": "FR"
+      }
+    ],
+    "languages": [
+      {
+        "name": "French",
+        "code": "fra"
+      }
+    ],
+    "tvg": {
+      "id": "TZiK.fr",
+      "name": "TZiK",
+      "url": ""
+    }
+  },
+  {
+    "name": "A2i musique",
+    "logo": "https://i.imgur.com/tH7EZL4.jpg",
+    "url": "https://stream.sen-gt.com/A2imusique/myStream/playlist.m3u8",
+    "categories": [
+      {
+        "name": "musique",
+        "slug": "musique"
+      }
+    ],
+    "countries": [
+      {
+        "name": "Senegal",
+        "code": "SN"
+      }
+    ],
+    "languages": [
+      {
+        "name": "Wolof",
+        "code": "wol"
+      },
+      {
+        "name": "French",
+        "code": "fra"
+      }
+    ],
+    "tvg": {
+      "id": "A2imusique.sn",
+      "name": "A2i musique",
+      "url": ""
+    }
+  },
+    {
+      "name": "Pluto TV Live in Concert",
+      "logo": "http://images.pluto.tv/channels/6080411af03506000759916e/solidLogoPNG.png",
+      "url": "http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/6080411af03506000759916e/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=35fbb571-e986-11eb-a0af-c3b401f46211&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=9c6d294f-660b-47ef-bc20-1961faf21c6a",
+      "categories": [
+        {
+          "name": "musique",
+          "slug": "musique"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Switzerland",
+          "code": "CH"
+        },
+        {
+          "name": "France",
+          "code": "FR"
+        }
+      ],
+      "languages": [
+        {
+          "name": "French",
+          "code": "fra"
+        }
+      ],
+      "tvg": {
+        "id": "PlutoTVLiveinConcert.us",
+        "name": "Pluto TV Live in Concert",
+        "url": ""
+      }
+    },
+
+    {
+      "name": "Pluto TV MTV Classics+",
+      "logo": null,
+      "url": "http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ff5ec5500d4c70007341c7c/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c8a1e60-e98a-11eb-a932-2f3c780ff9ff&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=de18fdd4-d30a-4263-8ecc-df902150744d",
+      "categories": [
+        {
+          "name": "musique",
+          "slug": "musique"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Switzerland",
+          "code": "CH"
+        },
+        {
+          "name": "France",
+          "code": "FR"
+        }
+      ],
+      "languages": [
+        {
+          "name": "French",
+          "code": "fra"
+        }
+      ],
+      "tvg": {
+        "id": "PlutoTVMTVClassicsPlus.us",
+        "name": "Pluto TV MTV Classics+",
+        "url": ""
+      }
+    },
+  {
+    "name": "Radio Contact",
+    "logo": "https://i.ibb.co/4jfSTKz/contact.jpg",
+    "url": "https://contact-lh.akamaihd.net/i/CONTACT_1@321283/master.m3u8",
+    "categories": [
+      {
+        "name": "musique",
+        "slug": "musique"
+      }
+    ],
+    "countries": [
+      {
+        "name": "Belgium",
+        "code": "BE"
+      }
+    ],
+    "languages": [
+      {
+        "name": "French",
+        "code": "fra"
+      }
+    ],
+    "tvg": {
+      "id": "RadioContact.be",
+      "name": "Radio Contact",
+      "url": ""
+    }
+  },
+  {
+    "name": "TMA",
+    "logo": "https://i.imgur.com/fQUzBsz.png",
+    "url": "http://hls.tmacaraibes.com/live/index.m3u8",
+    "categories": [
+      {
+        "name": "musique",
+        "slug": "musique"
+      }
+    ],
+    "countries": [
+      {
+        "name": "Guadeloupe",
+        "code": "GP"
+      }
+    ],
+    "languages": [
+      {
+        "name": "French",
+        "code": "fra"
+      }
+    ],
+    "tvg": {
+      "id": "TMA.gp",
+      "name": "TMA",
+      "url": ""
+    }
+  },
+  {
+    "name": "Kultu TV",
+    "logo": "https://i.imgur.com/8ytvChX.png",
+    "url": "https://query-streamlink.herokuapp.com/iptv-query?streaming-ip=https://www.dailymotion.com/video/x82zdni",
+    "categories": [
+      {
+        "name": "musique",
+        "slug": "musique"
+      }
+    ],
+    "countries": [
+      {
+        "name": "Benin",
+        "code": "BJ"
+      }
+    ],
+    "languages": [
+      {
+        "name": "French",
+        "code": "fra"
+      }
+    ],
+    "tvg": {
+      "id": "KultuTV.bj",
+      "name": "Kultu TV",
+      "url": ""
+    }
+  },
+  {
+    "name": "Play TV",
+    "logo": "https://i.imgur.com/mvgRAZw.jpg",
+    "url": "http://connectiktv.ddns.net:5000/playtv/@playtv/playlist.m3u8",
+    "categories": [
+      {
+        "name": "musique",
+        "slug": "musique"
+      }
+    ],
+    "countries": [
+      {
+        "name": "Cameroon",
+        "code": "CM"
+      }
+    ],
+    "languages": [
+      {
+        "name": "French",
+        "code": "fra"
+      }
+    ],
+    "tvg": {
+      "id": "PlayTV.cm",
+      "name": "Play TV",
+      "url": ""
+    }
+  }
+]

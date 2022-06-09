@@ -1,0 +1,113 @@
+[
+  {
+    "name": "3ABN Français",
+    "logo": "https://i.imgur.com/V6bL5MJ.png",
+    "url": "https://moiptvhls-i.akamaihd.net/hls/live/652314/secure/master.m3u8",
+    "categories": [
+      {
+        "name": "religion",
+        "slug": "religion"
+      }
+    ],
+    "countries": [
+      {
+        "name": "United States",
+        "code": "US"
+      }
+    ],
+    "languages": [
+      {
+        "name": "French",
+        "code": "fra"
+      }
+    ],
+    "tvg": {
+      "id": "3ABNFrancais.us",
+      "name": "3ABN Français",
+      "url": ""
+    }
+  },
+  {
+    "name": "EMCI TV",
+    "logo": "https://i.imgur.com/HRqcIcR.png",
+    "url": "https://emci-fr-hls.akamaized.net/hls/live/2007265/emcifrhls/index.m3u8",
+    "categories": [
+      {
+        "name": "religion",
+        "slug": "religion"
+      }
+    ],
+    "countries": [
+      {
+        "name": "Canada",
+        "code": "CA"
+      }
+    ],
+    "languages": [
+      {
+        "name": "French",
+        "code": "fra"
+      }
+    ],
+    "tvg": {
+      "id": "EMCITV.ca",
+      "name": "EMCI TV",
+      "url": ""
+    }},
+  {
+    "name": "Espérance TV",
+    "logo": "https://i.imgur.com/wnz50vR.png",
+    "url": "https://hcinteram.mmdlive.lldns.net/hcinteram/5fb30e8b271544039e79f93d4d496b25/manifest.m3u8",
+    "categories": [
+      {
+        "name": "religion",
+        "slug": "religion"
+      }
+    ],
+    "countries": [
+      {
+        "name": "Martinique",
+        "code": "MQ"
+      }
+    ],
+    "languages": [
+      {
+        "name": "French",
+        "code": "fra"
+      }
+    ],
+    "tvg": {
+      "id": "EsperanceTV.mq",
+      "name": "Espérance TV",
+      "url": ""
+    }
+  },
+  {
+    "name": "TV MANA (FR)",
+    "logo": "http://igrejamana.com/int/imagens/mana_logo_novo_lrg.png",
+    "url": "http://c2.manasat.com:1935/eglise-online/frances3/playlist.m3u8",
+    "categories": [
+      {
+        "name": "religion",
+        "slug": "religion"
+      }
+    ],
+    "countries": [
+      {
+        "name": "Portugal",
+        "code": "PT"
+      }
+    ],
+    "languages": [
+      {
+        "name": "French",
+        "code": "fra"
+      }
+    ],
+    "tvg": {
+      "id": "TVMANAFR.pt",
+      "name": "TV MANA (FR)",
+      "url": ""
+    }
+  }
+]
