@@ -4,6 +4,23 @@
             "outputFile": "C:\\Users\\lenovo\\Desktop\\iptv\\LiveFlix-master\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-or\\values-or.xml",
             "map": [
                 {
+                    "source": "C:\\Users\\lenovo\\.gradle\\caches\\transforms-3\\d41a4357b445c75d6128b2528516e82f\\transformed\\jetified-play-services-basement-16.0.1\\res\\values-or\\values.xml",
+                    "from": {
+                        "startLines": "4",
+                        "startColumns": "0",
+                        "startOffsets": "247",
+                        "endColumns": "198",
+                        "endOffsets": "445"
+                    },
+                    "to": {
+                        "startLines": "37",
+                        "startColumns": "4",
+                        "startOffsets": "3396",
+                        "endColumns": "198",
+                        "endOffsets": "3590"
+                    }
+                },
+                {
                     "source": "C:\\Users\\lenovo\\.gradle\\caches\\transforms-3\\854eff479914717c665fa7dbc51da254\\transformed\\core-1.7.0\\res\\values-or\\values-or.xml",
                     "from": {
                         "startLines": "2",
@@ -71,23 +88,6 @@
                         "endLines": "5,33,34,35,36,38,39,40,41,42,43,44,45,46,47,48,49,50,51,52,53,54,55,56,57,58,59,60,61,62,63,64,65,66,67,68,69,70,71,72,73,74,75,76,77,78,79,80,81,82,83,84,85,86,89",
                         "endColumns": "12,76,93,104,78,64,88,64,58,85,63,62,72,63,53,111,57,61,53,71,121,86,85,109,76,80,90,66,65,69,76,86,70,76,68,68,90,71,88,88,73,71,85,49,65,79,83,61,63,62,99,96,91,98,83",
                         "endOffsets": "272,3113,3207,3312,3391,3655,3744,3809,3868,3954,4018,4081,4154,4218,4272,4384,4442,4504,4558,4630,4752,4839,4925,5035,5112,5193,5284,5351,5417,5487,5564,5651,5722,5799,5868,5937,6028,6100,6189,6278,6352,6424,6510,6560,6626,6706,6790,6852,6916,6979,7079,7176,7268,7367,7689"
-                    }
-                },
-                {
-                    "source": "C:\\Users\\lenovo\\.gradle\\caches\\transforms-3\\6f7f160e7b1b5de864041f3e2a06387a\\transformed\\jetified-play-services-basement-16.0.1\\res\\values-or\\values.xml",
-                    "from": {
-                        "startLines": "4",
-                        "startColumns": "0",
-                        "startOffsets": "247",
-                        "endColumns": "198",
-                        "endOffsets": "445"
-                    },
-                    "to": {
-                        "startLines": "37",
-                        "startColumns": "4",
-                        "startOffsets": "3396",
-                        "endColumns": "198",
-                        "endOffsets": "3590"
                     }
                 }
             ]

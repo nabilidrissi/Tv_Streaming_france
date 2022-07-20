@@ -65,8 +65,7 @@ animator nav_default_enter_anim
 animator nav_default_exit_anim
 animator nav_default_pop_enter_anim
 animator nav_default_pop_exit_anim
-array exo_playback_speeds
-array exo_speed_multiplied_by_100
+array exo_controls_playback_speeds
 attr SharedValue
 attr SharedValueId
 attr action
@@ -2822,6 +2821,7 @@ drawable test_custom_background
 drawable test_level_drawable
 drawable tooltip_frame_dark
 drawable tooltip_frame_light
+drawable tva
 font roboto_medium_numbers
 id ALT
 id BOTTOM_END
@@ -3624,7 +3624,6 @@ string exo_controls_overflow_show_description
 string exo_controls_pause_description
 string exo_controls_play_description
 string exo_controls_playback_speed
-string exo_controls_playback_speed_normal
 string exo_controls_previous_description
 string exo_controls_repeat_all_description
 string exo_controls_repeat_off_description
@@ -3643,6 +3642,9 @@ string exo_download_description
 string exo_download_downloading
 string exo_download_failed
 string exo_download_notification_channel_name
+string exo_download_paused
+string exo_download_paused_for_network
+string exo_download_paused_for_wifi
 string exo_download_removing
 string exo_item_list
 string exo_track_bitrate
@@ -3992,7 +3994,6 @@ style ExoStyledControls_Button_Center_Next
 style ExoStyledControls_Button_Center_PlayPause
 style ExoStyledControls_Button_Center_Previous
 style ExoStyledControls_Button_Center_RewWithAmount
-style ExoStyledControls_ButtonText
 style ExoStyledControls_TimeBar
 style ExoStyledControls_TimeText
 style ExoStyledControls_TimeText_Duration

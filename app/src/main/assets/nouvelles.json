@@ -2,7 +2,7 @@
   {
     "name": "TF1",
     "logo": "https://upload.wikimedia.org/wikipedia/fr/thumb/7/77/TF1_%282013%29.svg/1200px-TF1_%282013%29.svg.png",
-    "url": "https://s2.tntendirect.com/tf1/live/chunks.m3u8",
+    "url": "http://flusonic-4.platinum-tv.com/TF1/index.m3u8",
     "categories": [
       {
         "name": "nouvelles",
@@ -48,7 +48,7 @@
   {
     "name": "France 24 Français",
     "logo": "https://i.imgur.com/61MSiq9.png",
-    "url": "https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1654615618/ei/4hmfYt65H6OvmLAPtYGxmAE/ip/105.66.5.49/id/u9foWyMSATM.12/source/yt_live_broadcast/requiressl/yes/tx/24027710/txs/24027707%2C24027708%2C24027709%2C24027710%2C24067856/hfr/1/playlist_duration/30/manifest_duration/30/maxh/2160/maudio/1/spc/4ocVC7GqxUsQHHHLCzrxbro-zY-dMduAYxhDlTBJFOf5/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaxh%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRAIgILR1IYGL8Y8x5Y0OHNYfs5M2r1qtQ28mL3tNgpdjDdQCIBnRgnfH1yMDogeCup0jtOhESCxTFoAxWHZ8nH-ImtLI/file/index.m3u8",
+    "url": "https://static.france24.com/live/F24_FR_HI_HLS/live_tv.m3u8",
     "categories": [
       {
         "name": "nouvelles",
@@ -263,8 +263,8 @@
   },
 
   {
-    "name": "Cnouvelles",
-    "logo": "https://i.postimg.cc/vT6GMpCV/cnouvelles.png",
+    "name": "Cnews",
+    "logo": "https://i.postimg.cc/vT6GMpCV/cnews.png",
     "url": "http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.dailymotion.com/video/x3b68jn",
     "categories": [
       {
@@ -291,9 +291,9 @@
     }
   },
   {
-    "name": "Euronouvelles Français",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Euronouvelles_2016_logo.svg/1000px-Euronouvelles_2016_logo.svg.png",
-    "url": "https://rakuten-euronouvelles-2-fr.samsung.wurl.com/manifest/playlist.m3u8",
+    "name": "Euronews Français",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Euronews_2016_logo.svg/1000px-Euronouvelles_2016_logo.svg.png",
+    "url": "https://rakuten-euronews-2-fr.samsung.wurl.com/manifest/playlist.m3u8",
     "categories": [
       {
         "name": "nouvelles",

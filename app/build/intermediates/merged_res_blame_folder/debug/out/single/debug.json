@@ -178,5 +178,9 @@
     {
         "merged": "C:\\Users\\lenovo\\Desktop\\iptv\\LiveFlix-master\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
         "source": "C:\\Users\\lenovo\\Desktop\\iptv\\LiveFlix-master\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\lenovo\\Desktop\\iptv\\LiveFlix-master\\app\\build\\intermediates\\merged_res\\debug\\drawable_tva.png.flat",
+        "source": "C:\\Users\\lenovo\\Desktop\\iptv\\LiveFlix-master\\app\\src\\main\\res\\drawable\\tva.png"
     }
 ]
